@@ -1,7 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Roy Moen",
+	"description": "This is project i for learning about package.json",
+	"keywords": ["learning","beginer","backend"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
+		"package": "^1.1.13",
+		"package-name": "version",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
